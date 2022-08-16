@@ -14,3 +14,5 @@ Type the command and hit enter:
 dart escribo.dart
 
 ```
+If 10 is inserted, the result should be 23:
+3+5+6+9 = 23
