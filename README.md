@@ -25,7 +25,8 @@ In the user variable section, select Path and click Edit….
 Click New, and enter the path to the dart-sdk directory.
 In each window that you just opened, click Apply or OK to dismiss it and apply the path change.
 
-                        ### OR
+OR
+
 
 Have flutter installed 
 https://docs.flutter.dev/get-started/install
